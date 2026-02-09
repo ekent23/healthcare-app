@@ -5,7 +5,7 @@ A conversational AI-powered app that helps patients estimate out-of-pocket costs
 
 Features:
 
-Estimates out-of-pocket costs for doctor visits, procedures, or prescriptions
-Compares options to identify the lowest-cost
-Provides clear and understandable explanations of cost estimates and recommendations
-Integrates with Ollama AI platform for accurate and secure processing
+- Estimates out-of-pocket costs for doctor visits, procedures, or prescriptions
+- Compares options to identify the lowest-cost
+- Provides clear and understandable explanations of cost estimates and recommendations
+- Integrates with Ollama AI platform for accurate and secure processing
